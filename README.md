@@ -1,5 +1,5 @@
 # destroyman
-the app i made for that stupid "oh oh oh oh ohh" tiktok with destroyman III from deepwoken (i love destroyman III
+the app i made for that stupid "oh oh oh oh ohh" tiktok with destroyman III from deepwoken (i love destroyman III)
 
 - sound isn't in the app
 - space to make the destroymans do the thing
